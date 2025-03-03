@@ -1,2 +1,1 @@
-# -Internship-IBS-BIMAG-Biomedical-Mathematics-Group-
-[Internship] IBS BIMAG (Biomedical Mathematics Group)
+This repository stores research materials from my undergraduate internship at the Biomedical Mathematics Group (BIMAG) of the Institute for Basic Science (IBS) in Daejeon, South Korea, from June to November 2024. In particular, it includes PowerPoint presentations reported to Professor Jae Kyeong Kim (C.I.), Python scripts written for simulating stochastic models of mammalian cellular signalling pathways, Julia scripts for simulating ODE models of the Drosophila circadian clock, and research papers I studied independently. 
